@@ -11,6 +11,6 @@
     "parse-server": "^2.6.5"
   },
   "scripts": {
-    "start": "mongodb-runner && node index.js"
+    "start": "node index.js"
   }
 }
